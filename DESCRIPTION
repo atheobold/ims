@@ -23,6 +23,7 @@ Imports:
     ggrepel,
     ggridges,
     gridExtra,
+    GGally,
     here,
     infer,
     janitor,
@@ -45,7 +46,9 @@ Imports:
     usdata,
     waffle,
     xtable,
-    Stat2Data
+    Stat2Data,
+    mosaicData,
+    e1071
 Suggests:
     bookdown,
     bslib,
